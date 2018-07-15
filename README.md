@@ -1,2 +1,2 @@
 # test
-Foo
+Foo Bar
